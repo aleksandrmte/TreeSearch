@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeSearch", "TreeSearch\TreeSearch.csproj", "{47CCF4F0-F38E-4406-81B1-803B6BA37793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeSearchLib", "TreeSearchLib\TreeSearchLib.csproj", "{3ECAF604-9A6D-40E0-822F-2B8C2228D56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CCF4F0-F38E-4406-81B1-803B6BA37793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CCF4F0-F38E-4406-81B1-803B6BA37793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CCF4F0-F38E-4406-81B1-803B6BA37793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CCF4F0-F38E-4406-81B1-803B6BA37793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECAF604-9A6D-40E0-822F-2B8C2228D56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECAF604-9A6D-40E0-822F-2B8C2228D56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECAF604-9A6D-40E0-822F-2B8C2228D56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECAF604-9A6D-40E0-822F-2B8C2228D56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {216320B3-F06D-4A85-9CA9-15A0E7A3E734}
+	EndGlobalSection
+EndGlobal
